@@ -5,8 +5,8 @@ Hi there! 👋 I'm Annarose Varghese and this is my GitHub profile.
 ## 👨‍💻 About Me
 
 - 🌐 I'm passionate about  web development, software development, machine learning].
-- 🎓 I am currently a fresher who recently completed a Master's degree in Computer Application from the Federal Institute of Science and Technology (FIST).
-- 💼 As a fresher, I am currently studying about  web development technology like python frameworks,Javascript framework lik react.js etc
+- 🎓 I am currently a fresher who recently completed a Master's degree in Computer Application from the Federal Institute of Science and Technology (FISAT).
+- 💼 As a fresher, I am currently studying web development technology like Python frameworks, Javascript framework like react.js etc
 
 ## 🚀 Skills
 
@@ -20,8 +20,8 @@ Hi there! 👋 I'm Annarose Varghese and this is my GitHub profile.
 - Front-End Web Development:React.js (JavaScript): 
 - **Tools and Technologies:**
 - Integrated Development Environments (IDEs):
-- Visual Studio Code,Eclipse
-- Version Control:GitHub
+- Visual Studio Code, Eclipse
+- Version Control: GitHub
 
 - **Database Management:**
 - Relational Databases: MySQL, PostgreSQL, SQLite:
