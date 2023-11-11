@@ -43,7 +43,6 @@ Hi there! 👋 I'm Annarose Varghese and this is my GitHub profile.
 - Email: annarosevv99@gmail.com 
 ## 🤝 Let's Connect!
 
-[Include a section where you invite others to connect, collaborate, or reach out to you. This can include collaboration opportunities, discussions, or anything else you'd like to share.]
 
 
 
